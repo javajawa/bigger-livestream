@@ -1,0 +1,1 @@
+window.setInterval(function() { document.getElementById('player_embed').style.width = ''; document.getElementById('player_embed').style.height = ''; }, 5000);

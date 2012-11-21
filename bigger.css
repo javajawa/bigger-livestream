@@ -1,0 +1,5 @@
+.embed-wrapper { height: 720px !important; }
+.player-wrapper { width: 1280px  !important; max-width: 1280px !important; }
+.event_live { width: 1300px !important;}
+.event_live.with_chat { width: 1600px !important;}
+#chat { height: 720px !important; }
