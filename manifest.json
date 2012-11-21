@@ -1,6 +1,6 @@
 {
   "name": "Bigger Livestream",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "description": "Makes the livestream video box 720p (HD) sized",
   "content_scripts": [{
